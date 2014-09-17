@@ -25,9 +25,10 @@ public final class R {
         public static final int shape=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f080002;
-        public static final int btnstart=0x7f080001;
-        public static final int txtv1=0x7f080000;
+        public static final int action_settings=0x7f080003;
+        public static final int btn=0x7f080000;
+        public static final int ip_txt=0x7f080002;
+        public static final int mac_txt=0x7f080001;
     }
     public static final class layout {
         public static final int activity_mac_address=0x7f030000;
